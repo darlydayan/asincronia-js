@@ -1,14 +1,14 @@
 const leer = async () => { 
     try { 
-    return await fetch("./ej18.json");
+    return await fetch("data.json");
     } catch (erroг) { 
     console.log(error); 
     } 
 }
 
 leer().then(data => { 
-data.json().then(body => { 
-    const filtro = body.filter(item => item.body.startsWith("1")) 
+data.json().then(nombre => { 
+    const filtro = nombre.filter(item => item.nombre.startsWith("1")) 
     console.table(filtro); 
 });
 

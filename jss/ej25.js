@@ -1,10 +1,5 @@
 const data = validar();
-
-  data.nombre = daya,
-  data.tele = 31092,
-  data.email = "dayana@hotmail.com",
-  data.date = "2004-04-22"
-
+fetch 
   
 function validar() {
   return new Proxy({}, {

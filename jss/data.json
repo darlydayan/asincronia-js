@@ -1,0 +1,52 @@
+[
+    {
+        "nombre": "Carlos",
+        "apellido": "López",
+        "edad": 29
+    },
+    {
+        "nombre": "María",
+        "apellido": "González",
+        "edad": 34
+    },
+    {
+        "nombre": "Juan",
+        "apellido": "Pérez",
+        "edad": 25
+    },
+    {
+        "nombre": "Ana",
+        "apellido": "Ramírez",
+        "edad": 22
+    },
+    {
+        "nombre": "Luis",
+        "apellido": "Hernández",
+        "edad": 31
+    },
+    {
+        "nombre": "Sofía",
+        "apellido": "Martínez",
+        "edad": 28
+    },
+    {
+        "nombre": "Pedro",
+        "apellido": "Gómez",
+        "edad": 40
+    },
+    {
+        "nombre": "Lucía",
+        "apellido": "Vargas",
+        "edad": 27
+    },
+    {
+        "nombre": "Andrés",
+        "apellido": "Castro",
+        "edad": 33
+    },
+    {
+        "nombre": "Carla",
+        "apellido": "Morales",
+        "edad": 21
+    }
+]
